@@ -1,2 +1,2 @@
 # python-exercises
-Exercicios simples de python, com foco no aprendizado
+Exercicios simples de python, com foco no aprendizado.
