@@ -9,6 +9,9 @@ frase_limpa = frase.replace(' ','')
 # palindromo = ''
 # for i in range(tamanho_frase -1, -1, -1):
 #     palindromo += frase_limpa[i]
+
+#versão melhorada: 
+
 palindromo = frase_limpa[::-1]
 print(f'a frase ao contrario ficaria: {palindromo}')
 print(f'A frase que vc escrevou sem espaços fica: {frase_limpa}')
